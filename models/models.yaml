@@ -1,0 +1,3 @@
+breast_cancer:
+  accuracy: 0.9642857142857143
+  file: /Users/myatphyothu/Documents/myatphyothu/projects/Python/machine_learning/models/breast_cancer.pickle

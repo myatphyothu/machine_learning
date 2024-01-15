@@ -1,0 +1,9 @@
+
+m (slope) = [ (mean(x) * mean(y)) - mean(x*y) ] / [ sq(mean(x)) - mean(sq(x)) ]
+
+b (y intercept) = mean(y) - m * mean(x)
+
+
+coefficient of determination where SE = squared error
+r-squared = 1 - (SE of regression_line) / (SE of mean(y))
+SE = sum((y_list - y_original_list) ** 2))
