@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 import time
-import tabulate
 
 labels = {
     '"1, 0"': ['1', '0'],
